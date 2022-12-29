@@ -1,0 +1,23 @@
+{
+    "name": "thekyo/ipa_font",
+    "type": "Library",
+    "description": "Mirroring private repository for IPA-font",
+    "homepage": "https://github.com/thekyo/ipa_font",
+    "authors": [
+        {
+            "name": "IPA",
+            "homepage": "https://github.com/thekyo/ipa_font/AUTHOR.md"
+        }
+    ],
+    "authors": [
+    ],
+    "require": {
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "thekyo\\IPAfont\\": "src/"
+        }
+    }
+}
